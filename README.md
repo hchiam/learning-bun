@@ -1,47 +1,24 @@
-# Learning template [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/hchiam/learning-template/blob/main/LICENSE)
+# Learning bun
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
-(To use this template fast with [`gh` CLI](https://github.com/hchiam/learning-gh), you can run [`gh repo create --template learning-template learning-...`](https://cli.github.com/manual/gh_repo_create) or [set up a custom shortcut CLI command](https://github.com/hchiam/learning-bash-scripts/blob/main/gh-cli-create-learning-repo-from-template.sh).)
-
-(To create a convenience script repo, use this template instead: https://github.com/hchiam/convenience)
-
-(To create a website fast, use a code generator like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), a [svelte template](https://github.com/sveltejs/template), [`yo`](https://yeoman.io/generators), or my [project-template](https://github.com/hchiam/project-template))
-
-(Use the redirect template https://github.com/hchiam/learning-redirect to enhance discoverability. Or [set up a custom shortcut CLI command](https://github.com/hchiam/learning-bash-scripts/blob/main/gh-cli-create-learning-redirect-repo-from-template.sh))
-
-<!-- Add reference link(s) here -->
-
-## From scratch
-
-Using [`yarn`](https://github.com/hchiam/learning-yarn):
-
-```bash
-yarn add
-```
-
-Or with `npm`:
-
-```bash
-npm install
-```
-
-And then:
-
-```bash
-
-```
-
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
-
-Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && yarn; # and then ...
-```
-
-Or with `npm`: (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && npm install; # and then ...
-```
+- https://bun.sh
+- https://github.com/oven-sh/bun#quick-links
+- https://bun.sh/docs/runtime/hot
+- https://bun.sh/docs/runtime/autoimport
+- https://bun.sh/docs/cli/test and https://bun.sh/docs/test/writing and https://bun.sh/docs/test/hot and https://bun.sh/docs/test/lifecycle and https://bun.sh/docs/test/mocks#spyon and https://bun.sh/docs/test/snapshots and https://bun.sh/docs/test/dom and https://bun.sh/docs/test/coverage
+- https://bun.sh/docs/typescript
+- https://bun.sh/docs/runtime/env
+- https://bun.sh/docs/runtime/modules
+- https://bun.sh/docs/bundler
+- https://bun.sh/docs/bundler/loaders
+- https://bun.sh/docs/bundler/executables
+- https://bun.sh/docs/api/console
+- https://bun.sh/docs/api/globals
+- https://bun.sh/docs/api/http#tls and https://bun.sh/docs/api/tcp
+- https://bun.sh/docs/api/websockets#start-a-websocket-server
+- https://bun.sh/docs/api/workers
+- https://bun.sh/docs/api/binary-data
+- https://bun.sh/docs/api/file-io
+- https://bun.sh/docs/api/import-meta for a module to get info about itself
+- https://bun.sh/docs/api/sqlite database
