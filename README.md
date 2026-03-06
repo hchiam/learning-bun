@@ -30,18 +30,12 @@ basically bun replaces a bunch of stuff, and runs faster: <https://www.youtube.c
 ## miscellaneous notes
 
 ```sh
-bun init
-```
-
-```sh
+bun init # like npm init
 bun install # instead of npm install
 ```
 
 ```sh
 bun run index.ts
-```
-
-```bash
 bun run --watch index.ts
 ```
 
