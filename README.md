@@ -2,6 +2,10 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+basically bun replaces a bunch of stuff, and runs faster: <https://www.youtube.com/watch?v=M4TufsFlv_o>
+
+some notable links for the official docs:
+
 - <https://bun.sh>
 - <https://github.com/oven-sh/bun#quick-links>
 - <https://bun.sh/docs/runtime/hot>
