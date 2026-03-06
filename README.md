@@ -4,7 +4,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 basically bun replaces a bunch of stuff, and runs faster: <https://www.youtube.com/watch?v=M4TufsFlv_o>
 
-some notable links for the official docs:
+## some notable links for the official docs
 
 - <https://bun.sh>
 - <https://github.com/oven-sh/bun#quick-links>
@@ -26,3 +26,21 @@ some notable links for the official docs:
 - <https://bun.sh/docs/api/file-io>
 - <https://bun.sh/docs/api/import-meta> for a module to get info about itself
 - <https://bun.sh/docs/api/sqlite> database
+
+## miscellaneous notes
+
+```sh
+bun init
+```
+
+```sh
+bun install
+```
+
+```sh
+bun run index.ts
+```
+
+```bash
+bun run --watch index.ts
+```
