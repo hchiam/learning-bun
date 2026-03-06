@@ -1,4 +1,4 @@
-// bun --watch index.tsx
+// bun test
 
 import { myFunction } from ".";
 

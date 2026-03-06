@@ -15,4 +15,9 @@ serve({
 
     return new Response("Hiya!");
   },
+
+  routes: {
+    '/': ()=>new Response('This overrides the "Hiya!" message'),
+    '/path': ()=>new Response('you went to a path')
+  }
 });

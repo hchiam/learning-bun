@@ -34,7 +34,7 @@ bun init
 ```
 
 ```sh
-bun install
+bun install # instead of npm install
 ```
 
 ```sh
@@ -43,4 +43,12 @@ bun run index.ts
 
 ```bash
 bun run --watch index.ts
+```
+
+```bash
+bun test # will automatically run [...].test.tsx files
+```
+
+```bash
+bunx cowsay -d 'hi' # instead of npx cowsay -d 'hi'
 ```
